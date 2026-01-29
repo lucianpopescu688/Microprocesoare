@@ -1,0 +1,14 @@
+../Core/Src/main.c:70:5:main	1
+../Core/Src/main.c:131:6:SystemClock_Config	3
+../Core/Src/main.c:179:13:MX_GPIO_Init	1
+../Core/Src/main.c:263:6:Decode	11
+../Core/Src/main.c:379:6:Multiplex	1
+../Core/Src/main.c:422:6:GetSecondTick	2
+../Core/Src/main.c:435:6:IncSec	2
+../Core/Src/main.c:445:6:IncTSec	2
+../Core/Src/main.c:455:6:IncMin	2
+../Core/Src/main.c:465:6:IncTMin	2
+../Core/Src/main.c:475:6:IncHour	4
+../Core/Src/main.c:497:6:IncTHour	2
+../Core/Src/main.c:507:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:546:6:Error_Handler	1

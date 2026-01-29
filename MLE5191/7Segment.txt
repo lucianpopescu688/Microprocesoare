@@ -1,0 +1,18 @@
+
+SegA--PB13
+SegB--PB14
+SegC--PB15
+SegD--PB01
+SegE--PB02
+SegF--PB05
+SegG--PB04
+
+Dig1--PC5
+Dig2--PC6
+Dig4--PC8
+Dig5--PC9
+Dig7--PC11
+Dig8--PC10
+
+V+  -- +3.3V
+GND -- GND
